@@ -3,7 +3,8 @@ package edu.remad.learnstreamsjavapractically;
 import java.util.Arrays;
 
 /**
- * Prints of an integer array the average of all integers, which are powered with itself.
+ * Prints of an integer array the average of all integers, which are powered
+ * with itself.
  * @author Remy Meier
  */
 public class StreamArrayMapPowerOf2AveragePrintlnExample {
